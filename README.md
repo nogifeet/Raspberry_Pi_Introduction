@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/raspberry_pi.PNG "Raspberry Pi 4")
 
+![alt text](https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/pi.PNG "Raspberry Pi 4 Board Connections")
+
 ## Using the Raspberry Bi Camera Module
 
 ![alt text](https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/camera.jpg "Raspberry Pi 5MP Camera Board")
