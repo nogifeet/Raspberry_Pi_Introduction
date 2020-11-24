@@ -10,7 +10,7 @@ The **Raspberry Pi 5MP Camera Board** connected with the **Raspberry Pi 4** boar
 
 ## Using the HC-SR04 Distance Sensor
 
-![alt text](https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/sensor.jpg "HC-SR04 Distance Sensor")
+![alt text](https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/sensor.PNG "HC-SR04 Distance Sensor")
 
 **HC-SR04 Distance Sensor** connected with the **Raspberry Pi 4** board we can easily detect distance. HC-SR04 has 4 points of connection (i)**VCC** which is connected to 5V power supply (ii)**Gnd** which can be connected to anyone of the Ground pins (iii) **Trigger** and **Echo** can be connected to any of the GPIO pins. **distance.py** contains source code for operating distance sensor with Raspberry Pi 4.
 
