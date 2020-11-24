@@ -20,6 +20,13 @@ The **Raspberry Pi 5MP Camera Board** connected with the **Raspberry Pi 4** boar
 
 Implementation video and python source code can be found in **Traffic Signal Led**
 
+## Led Light based on Distance from HC-SR04
+
+![alt text](https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Distance%20Tracker%20Using%20Led/distance_light_detection.jpg
+ "Led Light Using HC-SR04")
+
+Implementation video and python source code can be found in **Distance Tracker Using Led**
+
 
 
 
