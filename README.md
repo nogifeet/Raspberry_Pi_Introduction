@@ -29,6 +29,20 @@ Implementation video and python source code can be found in **Traffic Signal Led
 
 Implementation video and python source code can be found in **Distance Tracker Using Led**
 
+## 4 X 4 Motor Control Using L289n Board
+
+![alt text](https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/L289n%20Motor%20Control/l289n_motor.PNG
+ "L289n Board")
+ 
+ **L289n** can be used to control multiple motors, they can be used for speed and movement control. 
+ 
+ ### Connection Diagram for L289n Board + RaspberryPi 4 + 4 Motors + 6 X AA Battery Pack
+ 
+![alt text]( https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/L289n%20Motor%20Control/L289n%20Connection.jpg
+ "L289n Board Connection")
+ 
+ 
+
 
 
 
