@@ -41,7 +41,14 @@ Implementation video and python source code can be found in **Distance Tracker U
 ![alt text]( https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/L289n%20Motor%20Control/L289n%20Connection.jpg
  "L289n Board Connection")
  
+ Implementation video and python source code can be found in **L289n Motor Control**
  
+ This is what the final RaspberryPi Car Design looks like 
+ 
+ ![alt text]( https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/L289n%20Motor%20Control/l289_car_img1.jpeg
+ "RaspberryPi4 Car")
+ 
+
 
 
 
