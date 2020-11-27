@@ -54,21 +54,3 @@ Implementation video and python source code can be found in **Distance Tracker U
  
   ![alt text]( https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/car_image_1.jpeg
  "RaspberryPi4 Car")
- 
- **Image 03**
- 
-  ![alt text]( https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/car_image_3.jpeg
- "RaspberryPi4 Car")
- 
-
-
-
-
-
-
-
-
-
-
-
-
