@@ -45,7 +45,19 @@ Implementation video and python source code can be found in **Distance Tracker U
  
  This is what the final RaspberryPi Car Design looks like 
  
- ![alt text]( https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/L289n%20Motor%20Control/l289_car_img1.jpeg
+ **Image 01**
+ 
+ ![alt text]( https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/car_image_2.jpeg
+ "RaspberryPi4 Car")
+ 
+ **Image 02**
+ 
+  ![alt text]( https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/car_image_1.jpeg
+ "RaspberryPi4 Car")
+ 
+ **Image 03**
+ 
+  ![alt text]( https://github.com/nogifeet/Raspberry_Pi_Introduction/blob/main/Images/car_image_3.jpeg
  "RaspberryPi4 Car")
  
 
